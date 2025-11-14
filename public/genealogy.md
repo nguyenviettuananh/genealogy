@@ -1,0 +1,75 @@
+- **AN SINH VƯƠNG TRẦN LIỄU**
+  - **HƯNG ĐẠO VƯƠNG TRẦN QUỐC TUẤN**
+    - **HƯNG VŨ VƯƠNG TRẦN QUỐC NGHIỄN**
+      - **TRẦN CÔNG HUY** (đời họ 1451)
+    - **HƯNG HIẾN VƯƠNG TRẦN QUỐC UẤT**
+      - **TRẦN VÔ VI**
+        - **TRẦN ĐỨC NGHỊ**
+          - **TRẦN CHÍNH ĐẠO**
+            - **TRẦN CHÂN TƯ**
+              - **TRẦN CƯƠNG CHÍNH**
+                - **TRẦN CƯƠNG DŨNG**
+                  - **TRẦN QUANG TÁ**
+                - **TRẦN TRẠCH LƯỢNG**
+                  - **TRẦN QUỐC THẾ**
+                    - **TRẦN TUÂN**
+                      - **TRẦN QUỐC NHỤÊ CÓ TLIỆU GHI LÁ CON THỨ CỤ TỔ HUYỆN**
+                        - **TRẦN QUỐC HỮU**
+                          - **PHÚC THUẬT PHÚ QUAN TRẦN QUỐC THẠCH**
+                            - **HUYỆN TƯƠNG CÔNG TRẦN THẾ SỰ**
+                              - **TRẦN ĐAI**
+                                - **Trần Đinh**
+                                  - **QUAN VĂN TRẦN QUỐC CÔNG**
+                                  - **Không rõ tên thật chỉ ghi tên hiệu Bồng Lai**
+                                    - **CỤ HƯƠNG TỔNG TRẦN ĐỨC TỔNG**
+                                      - **CỤ HƯƠNG BẢN TRẦN ĐỨC BẢN**
+                                        - **CỤ HƯƠNG THÔN TRẦN ĐỨC CHÂM**
+                                          - **CỤ HƯƠNG NỚ TRẦN ĐỨC CÚC**
+                                            - **Cụ Hương Thu Trần Đức Cấn**
+                                              - **Trần Đức Liễn**
+                                                - **Trần Đức Ngoạn | Trần Đức Tùng | Trần Đức Lâm**
+                                                  - **Trần Hoàng Anh | Trần Hoàng Hải**
+                                            - **Trần ? Khoa**
+                                              - **Trần ? Hồi**
+                                                - **Trần ? Thắng | Trần ? Trung**
+                                                  - **?**
+                                    - **CỤ HƯƠNG GỐC TRẦN ĐỨC GỐC**
+                                      - **CỤ TÚ KẾP TRẦN ĐỨC TUYÊN**
+                                        - **CỤ BA TRẦN ĐỨC NẠI**
+                                          - **TRẦN ĐỨC NỘI**
+                                            - **TRẦN ĐỨC LÃI**
+                                              - **TRẦN ĐỨC THẮNG | TRẦN ĐỨC THỊNH**
+                                                - **TRẦN ĐỨC VIỆT | TRẦN ĐỨC ANH**
+                                                  - **TRẦN ĐỨC VŨ**
+                                        - **CỤ BỐN TRẦN ĐỨC LỆNH**
+                                          - **CỤ PHÚC QUẢNG TRẦN ĐỨC BIẾU**
+                                            - **TRẦN ĐỨC HUY (chết trẻ 1942) | TRẦN QUANG DIỆU | TRẦN TIẾNG HÙNG**
+                                              - **TRẦN ANH PHONG | TRẦN HOÀNG LINH**
+                                                - **TRẦN GIA KHÁNH | TRẦN THẠCH GIA**
+                                      - **CỤ TRẦN ĐỨC YÊM**
+                                        - **CỤ TRẦN ĐỨC TRƯỜNG**
+                                          - **CỤ TRẦN ĐỨC THẬN**
+                                          - **TRẦN ĐỨC PHỐ**
+                                            - **TRẦN ĐỨC VIỆT | TRẦN ĐỨC VINH | TRẦN ĐỨC TƯỜNG**
+                                              - **TRẦN ? NAM | TRẦN ĐỨC QUANG**
+                                                - **? VĂN | ? DƯƠNG**
+                                        - **CỤ TỰ QUANG KHẢI TRẦN ĐỨC KHAI (1877-1943)**
+                                          - **CỤ TỰ PHÚC THÀNH - TRẦN ĐỨC VỊNH (18-11 NHÂM TUẤT) 1913-1982**
+                                            - **TRẦN THẾ HẠNH | TRẦN TRỌNG PHÚC | TRẦN ĐỨC CHƯƠNG | TRẦN CÔNG BẰNG | TRẦN ĐỨC BÍNH | TRẦN ĐỨC THANH**
+                                              - **TRẦN ĐỨC LƯƠNG | TRẦN ĐỨC THIỆN | TRẦN MINH ĐỨC | TRẦN THẾ GIANG | TRẦN ĐỨC HƯNG | TRẦN ĐỨC HÙNG | TRẦN ĐỨC HIỀN | TRẦN ĐỨC SÁNG | TRẦN ĐỨC BÌNH | TRẦN ĐỨC THẢO**
+                                                - **TRẦN ANH ĐỨC | TRẦN QUỐC BẢO | TRẦN QUỐC VINH | TRẦN VŨ ANH TUẤN | TRẦN ĐỨC MINH | TRẦN THẠCH SON | TRẦN ĐỨC ANH | TRẦN MINH HIẾU**
+                                          - **CỤ TỰ LÂM THÀNH TRẦN ĐỨC VIỆN (26-5-1977)**
+                                            - **TRẦN ĐỨC PHIÊN | TRẦN ĐỨC LONG | TRẦN ĐỨC HÙNG**
+                                              - **Trần ? Tú | Trần ? Hưng**
+                                                - **Trần ? Huy | Trần ? Hoàng**
+                                  - **QUAN VÕ TRẦN PHÚC ĐIỀN**
+            - **TRẦN CHÂN AN**
+              - **TRẦN TUÂN ĐẠO**
+              - **TRẦN CHÂN KHÔNG**
+        - **TRẦN PHÚC HẢO**
+          - **TRẦN PHÚC NHÂN**
+    - **HƯNG NHƯỢNG VƯƠNG TRẦN QUỐC TẢNG**
+      - **CÔNG CHÚA THUẬN THÀNH**
+    - **HƯNG TRÍ VƯƠNG TRẦN QUỐC HIỆN**
+    - **HOÀNG HẬU KHÂM TỪ**
+    - Con gái đẻ (đổi họ) Gả cho **PHẠM NGŨ LÃO**
