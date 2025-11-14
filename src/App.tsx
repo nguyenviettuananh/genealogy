@@ -17,7 +17,7 @@ export default function App() {
   const [initialDepth, setInitialDepth] = useState(99)
 
   useEffect(() => {
-    fetch('/genealogy.json')
+    fetch('genealogy.json')
       .then(r => r.json())
       .then(obj => {
         console.log('Loaded genealogy.json', { nodes: 1 })
