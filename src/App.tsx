@@ -15,6 +15,7 @@ export default function App() {
   const [collapsed, setCollapsed] = useState<Set<string>>(new Set())
   const [viewKey, setViewKey] = useState(1)
   const [initialDepth, setInitialDepth] = useState(99)
+  const [showLevels, setShowLevels] = useState(true)
 
   useEffect(() => {
     fetch('genealogy.json')
@@ -75,9 +76,10 @@ export default function App() {
         <div className="spacer" />
         <button onClick={onCollapseAll} disabled={disabled}>Thu gọn tất cả</button>
         <button onClick={onExpandAll} disabled={disabled}>Mở rộng tất cả</button>
+        <button onClick={() => setShowLevels(s => !s)}>{showLevels ? 'Ẩn vạch cấp' : 'Hiện vạch cấp'}</button>
       </header>
       <main className="content">
-        {viewData ? <TreeView data={viewData} onToggle={onToggle} initialDepth={initialDepth} viewKey={viewKey} /> : <div className="loading">Đang tải dữ liệu…</div>}
+        {viewData ? <TreeView data={viewData} onToggle={onToggle} initialDepth={initialDepth} viewKey={viewKey} showLevels={showLevels} /> : <div className="loading">Đang tải dữ liệu…</div>}
       </main>
     </div>
   )
