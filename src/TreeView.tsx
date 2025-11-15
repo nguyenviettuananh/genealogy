@@ -68,8 +68,8 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
       for (const entry of entries) {
         const cr = entry.contentRect
         setTranslate({ x: cr.width / 2, y: 80 })
-        const w = Math.max(160, Math.min(300, cr.width * 0.28))
-        const gy = Math.max(110, Math.min(180, cr.height * 0.18))
+        const w = Math.max(160, Math.min(300, cr.width * 0.32))
+        const gy = Math.max(96, Math.min(150, cr.width * 0.35))
         setNodeW(w)
         setGapY(gy)
       }
@@ -146,8 +146,8 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
         translate={translate}
         zoomable
         enableLegacyTransitions
-        separation={{ siblings: 1.2, nonSiblings: 1.6 }}
-        nodeSize={{ x: 280, y: gapY }}
+        separation={{ siblings: 1.1, nonSiblings: 1.5 }}
+        nodeSize={{ x: Math.max(260, nodeW + 60), y: gapY }}
         renderCustomNodeElement={renderNode}
         collapsible={true}
         initialDepth={initialDepth}
