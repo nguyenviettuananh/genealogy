@@ -34,7 +34,8 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
   const [translate, setTranslate] = useState<{ x: number; y: number }>({ x: 300, y: 80 })
   const renderedLevelsRef = useRef<Set<number>>(new Set())
   const [groupTransform, setGroupTransform] = useState<string>('translate(0,0) scale(1)')
-  const GAP_Y = 160
+  const [gapY, setGapY] = useState(160)
+  const [nodeW, setNodeW] = useState(240)
   const [tfVals, setTfVals] = useState<{ tx: number; ty: number; s: number }>({ tx: 0, ty: 0, s: 1 })
   useEffect(() => {
     const el = containerRef.current
@@ -59,6 +60,23 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
     obs.observe(el, { attributes: true, attributeFilter: ['transform'] })
     return () => obs.disconnect()
   }, [viewKey, data])
+
+  useEffect(() => {
+    const container = containerRef.current
+    if (!container) return
+    const ro = new ResizeObserver(entries => {
+      for (const entry of entries) {
+        const cr = entry.contentRect
+        setTranslate({ x: cr.width / 2, y: 80 })
+        const w = Math.max(160, Math.min(300, cr.width * 0.28))
+        const gy = Math.max(110, Math.min(180, cr.height * 0.18))
+        setNodeW(w)
+        setGapY(gy)
+      }
+    })
+    ro.observe(container)
+    return () => ro.disconnect()
+  }, [])
 
   const raw = useMemo(() => toRaw(data), [data])
   function maxDepth(node: RawNode): number {
@@ -88,8 +106,9 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
   }
 
   const renderNode = ({ nodeDatum, toggleNode }: any) => {
-    const lines = wrapWords(String(nodeDatum.name))
-    const w = 240
+    const maxChars = Math.max(16, Math.floor(nodeW / 9))
+    const lines = wrapWords(String(nodeDatum.name), maxChars)
+    const w = nodeW
     const lineH = 18
     const h = Math.max(44, lines.length * lineH + 18)
     console.log('Render node', { id: nodeDatum.id, name: nodeDatum.name, collapsed: nodeDatum.collapsed })
@@ -128,7 +147,7 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
         zoomable
         enableLegacyTransitions
         separation={{ siblings: 1.2, nonSiblings: 1.6 }}
-        nodeSize={{ x: 280, y: GAP_Y }}
+        nodeSize={{ x: 280, y: gapY }}
         renderCustomNodeElement={renderNode}
         collapsible={true}
         initialDepth={initialDepth}
@@ -139,7 +158,7 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
           <svg className="levels-svg" width="100%" height="100%" style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
             <g transform={groupTransform}>
               {Array.from({ length: maxLvl }).map((_, lvl) => (
-                <line key={lvl} x1={-10000} x2={10000} y1={(lvl + 0.5) * GAP_Y} y2={(lvl + 0.5) * GAP_Y} stroke="#dc2626" strokeWidth={1.2} opacity={0.4} />
+                <line key={lvl} x1={-10000} x2={10000} y1={(lvl + 0.5) * gapY} y2={(lvl + 0.5) * gapY} stroke="#dc2626" strokeWidth={1.2} opacity={0.4} />
               ))}
             </g>
           </svg>
@@ -148,7 +167,7 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
               <div
                 key={lvl}
                 className="label"
-                style={{ position: 'absolute', left: 8, top: tfVals.ty + (lvl + 0.5) * GAP_Y * tfVals.s - 10 }}
+                style={{ position: 'absolute', left: 8, top: tfVals.ty + (lvl + 0.5) * gapY * tfVals.s - 10 }}
               >
                 {`Đời ${lvl + 1}`}
               </div>
