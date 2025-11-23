@@ -34,8 +34,8 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
   const [translate, setTranslate] = useState<{ x: number; y: number }>({ x: 300, y: 80 })
   const renderedLevelsRef = useRef<Set<number>>(new Set())
   const [groupTransform, setGroupTransform] = useState<string>('translate(0,0) scale(1)')
-  const [gapY, setGapY] = useState(160)
-  const [nodeW, setNodeW] = useState(240)
+  const [gapY, setGapY] = useState(200)
+  const [nodeW, setNodeW] = useState(360)
   const [tfVals, setTfVals] = useState<{ tx: number; ty: number; s: number }>({ tx: 0, ty: 0, s: 1 })
   const [positions, setPositions] = useState<Record<string, { dx: number; dy: number }>>({})
   const draggingRef = useRef(false)
@@ -85,8 +85,8 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
       for (const entry of entries) {
         const cr = entry.contentRect
         setTranslate({ x: cr.width / 2, y: 80 })
-        const w = Math.max(160, Math.min(300, cr.width * 0.32))
-        const gy = Math.max(96, Math.min(150, cr.width * 0.35))
+        const w = Math.max(260, Math.min(480, cr.width * 0.48))
+        const gy = Math.max(160, Math.min(240, cr.width * 0.50))
         setNodeW(w)
         setGapY(gy)
       }
@@ -155,18 +155,18 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
   }
 
   const renderNode = ({ nodeDatum, toggleNode }: any) => {
-    const maxChars = Math.max(16, Math.floor(nodeW / 9))
+    const maxChars = Math.max(28, Math.floor(nodeW / 9))
     const lines = parseNameLines(String(nodeDatum.name), maxChars)
     const w = nodeW
-    const lineH = 18
-    const h = Math.max(44, lines.length * lineH + 18)
+    const lineH = 28
+    const h = Math.max(84, lines.length * lineH + 24)
     console.log('Render node', { id: nodeDatum.id, name: nodeDatum.name, collapsed: nodeDatum.collapsed })
     const hasChildren = Array.isArray(nodeDatum.children) && nodeDatum.children.length > 0
     console.log('Node hasChildren', { id: nodeDatum.id, hasChildren, childrenLen: nodeDatum.children?.length })
     const depth: number = (nodeDatum as any).depth ?? (nodeDatum as any).__rd3t?.depth ?? 0
     const shouldRenderLevel = showLevels && !renderedLevelsRef.current.has(depth)
     if (shouldRenderLevel) renderedLevelsRef.current.add(depth)
-    const styleDiv: any = { borderColor: hasChildren ? '#0ea5e9' : '#94a3b8', background: hasChildren ? '#f0f9ff' : '#ffffff', cursor: hasChildren ? 'pointer' : 'default' }
+    const styleDiv: any = { borderColor: '#1e3a8a', background: '#ffffff', cursor: 'default' }
     const pos = positions[nodeDatum.id] || { dx: 0, dy: 0 }
     const cx = (nodeDatum as any).__rd3t?.x ?? 0
     const cy = (nodeDatum as any).__rd3t?.y ?? 0
@@ -195,12 +195,9 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
     return (
       <g onClick={() => { if (draggingRef.current) return; if (hasChildren) { console.log('svgClick node', nodeDatum.id); toggleNode(); } }} transform={`translate(${pos.dx},${pos.dy})`}>
         {shouldRenderLevel ? (
-          <>
-            <line x1={-10000} x2={10000} y1={0} y2={0} stroke="#dc2626" strokeWidth={1.5} opacity={0.5} style={{ pointerEvents: 'none' }} data-level={depth} />
-            <text x={-300} y={-h / 2 - 6} fill="#b91c1c" fontSize={12} fontWeight={700} textAnchor="end" data-level-label={depth} style={{ pointerEvents: 'none' }}>
-              {`Đời ${depth + 1}`}
-            </text>
-          </>
+          <text x={-300} y={-h / 2 - 6} fill="#b91c1c" fontSize={12} fontWeight={700} textAnchor="end" data-level-label={depth} style={{ pointerEvents: 'none' }}>
+            {`Đời ${depth + 1}`}
+          </text>
         ) : null}
         <foreignObject x={-w / 2} y={-h / 2} width={w} height={h} style={{ pointerEvents: 'auto' }} onPointerDown={onPointerDown}>
           <div className={`node-html`} style={styleDiv} data-node-id={nodeDatum.id}>
@@ -209,7 +206,7 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
                 <div key={i} dangerouslySetInnerHTML={{ __html: sanitizeHtml(ln) }} />
               ))}
             </div>
-            {hasChildren ? <div className="node-caret" aria-hidden>▸</div> : null}
+            {/* {hasChildren ? <div className="node-caret" aria-hidden>▸</div> : null} */}
           </div>
         </foreignObject>
       </g>
@@ -225,7 +222,7 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
         zoomable
         enableLegacyTransitions
         separation={{ siblings: 1.1, nonSiblings: 1.5 }}
-        nodeSize={{ x: Math.max(260, nodeW + 60), y: gapY }}
+        nodeSize={{ x: Math.max(420, nodeW + 150), y: gapY }}
         renderCustomNodeElement={renderNode}
         collapsible={true}
         initialDepth={initialDepth}
@@ -233,26 +230,17 @@ export default function TreeView({ data, onToggle, initialDepth, viewKey, showLe
       />
       
       {showLevels ? (
-        <>
-          <svg className="levels-svg" width="100%" height="100%" style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
-            <g transform={groupTransform}>
-              {Array.from({ length: maxLvl }).map((_, lvl) => (
-                <line key={lvl} x1={-10000} x2={10000} y1={(lvl + 0.5) * gapY} y2={(lvl + 0.5) * gapY} stroke="#dc2626" strokeWidth={1.2} opacity={0.4} />
-              ))}
-            </g>
-          </svg>
-          <div className="level-fixed-labels" style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
-            {Array.from({ length: maxLvl }).map((_, lvl) => (
-              <div
-                key={lvl}
-                className="label"
-                style={{ position: 'absolute', left: 8, top: tfVals.ty + (lvl + 0.5) * gapY * tfVals.s - 10 }}
-              >
-                {`Đời ${lvl + 1}`}
-              </div>
-            ))}
-          </div>
-        </>
+        <div className="level-fixed-labels" style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
+          {Array.from({ length: maxLvl }).map((_, lvl) => (
+            <div
+              key={lvl}
+              className="label"
+              style={{ position: 'absolute', left: 8, top: tfVals.ty + (lvl + 0.5) * gapY * tfVals.s - 10 }}
+            >
+              {`Đời ${lvl + 1}`}
+            </div>
+          ))}
+        </div>
       ) : null}
     </div>
   )

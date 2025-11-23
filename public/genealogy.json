@@ -12,7 +12,7 @@
           "children": [
             {
               "id": "n4-tips",
-              "name": "Nhỏ 1 nửa (Content: ĐẶNG TRẦN CÔN - ĐẶNG XUÂN KHU (TỔNG BÍ THƯ TRƯỜNG CHINH) - ĐẶNG THAI MAI: THUỘC CHI HỌ NÀY)",
+              "name": "| <span class=\"xsmall muted\">ĐẶNG TRẦN CÔN - ĐẶNG XUÂN KHU (TỔNG BÍ THƯ TRƯỜNG CHINH) - ĐẶNG THAI MAI (THUỘC CHI HỌ NÀY)</span>",
               "children": []
             },
             {
@@ -67,7 +67,7 @@
                                       "children": [
                                         {
                                           "id": "n15-tips",
-                                          "name": "Nhỏ 1 nửa (Content: Để tìm hiểu thêm: xem trang 4,5,6 trong cuốn Năm Tháng và Sự Kiện ông Trần Thế Hạnh viết 6/2003)",
+                                          "name": "| <span class=\"xsmall muted\">Để tìm hiểu thêm: xem trang 4,5,6 trong cuốn Năm Tháng và Sự Kiện ông Trần Thế Hạnh viết 6/2003)</span>",
                                           "children": []
                                         },
                                         {
@@ -134,7 +134,7 @@
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n29",
-                                                                                              "name": "| <span class=\"big strong\">TRẦN ĐỨC LIỄN</span>",
+                                                                                              "name": "| <span class=\"big strong\">TRẦN ĐỨC LIỄN</span> | <span class=\"xsmall muted\">mất tháng 10/1979</span>",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n30",

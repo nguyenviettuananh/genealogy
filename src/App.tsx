@@ -77,9 +77,11 @@ export default function App() {
         <button onClick={onCollapseAll} disabled={disabled}>Thu gọn tất cả</button>
         <button onClick={onExpandAll} disabled={disabled}>Mở rộng tất cả</button>
         <button onClick={() => setShowLevels(s => !s)}>{showLevels ? 'Ẩn vạch cấp' : 'Hiện vạch cấp'}</button>
+        <button onClick={() => window.print()}>In A2</button>
       </header>
       <main className="content">
         {viewData ? <TreeView data={viewData} onToggle={onToggle} initialDepth={initialDepth} viewKey={viewKey} showLevels={showLevels} /> : <div className="loading">Đang tải dữ liệu…</div>}
+        <div className="signature-block">Signature: hint text</div>
       </main>
     </div>
   )
