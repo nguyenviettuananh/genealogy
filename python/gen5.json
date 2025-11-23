@@ -1,0 +1,41 @@
+{
+  "id": "gen5-root",
+  "name": "Cụ Trần Đức Trường",
+  "children": [
+    {
+      "id": "gen5-left-1",
+      "name": "Cụ Trần Đức Thận",
+      "children": [
+        {
+          "id": "gen5-left-2",
+          "name": "Ông: Đoan, Thục",
+          "children": [
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gen5-right-1",
+      "name": "Cụ Trần Đức Phố",
+      "children": [
+        {
+          "id": "gen5-right-2",
+          "name": "Ông: Việt(A), Vinh, Tường",
+          "children": [
+            {
+              "id": "gen5-right-3",
+              "name": "Anh: Nam, Quang",
+              "children": [
+                {
+                  "id": "gen5-right-4",
+                  "name": "Văn, Dương",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

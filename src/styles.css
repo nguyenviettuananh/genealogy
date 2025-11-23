@@ -22,7 +22,20 @@ body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI
 .level-fixed-labels .label { color: #b91c1c; font-size: 12px; font-weight: 700; background: rgba(255,255,255,.7); padding: 0 4px; border-radius: 4px; }
 .node-html:hover { background: #f1f5f9; }
 .node-html-label { font-size: 12px; font-weight: 600; color: #0f172a; line-height: 1.25; word-break: break-word; }
+.node-html-label p { display: inline; margin: 0; }
+.node-html-label .small { font-size: 11px; font-weight: 500; }
+.node-html-label .xsmall { font-size: 10px; font-weight: 500; }
+.node-html-label .muted { color: #64748b; font-weight: 500; }
+.node-html-label .nowrap { white-space: nowrap; word-break: normal; overflow-wrap: normal; display: inline; }
+.node-html-label .nowrap * { white-space: nowrap; word-break: normal; overflow-wrap: normal; }
+.node-html-label .big { font-size: 14px; font-weight: 700; }
+.node-html-label .xbig { font-size: 16px; font-weight: 800; }
+.node-html-label .strong { font-weight: 800; }
+.node-html-label .hidden { display: none; }
 .level-fixed-labels { padding-left: env(safe-area-inset-left); }
+.rd3t-links { display: none; }
+.rd3t-link { display: none; }
+.links-svg { z-index: 2; }
 @media (max-width: 480px) {
   .toolbar h1 { font-size: 16px; }
 }

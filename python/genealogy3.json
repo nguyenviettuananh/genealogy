@@ -1,0 +1,272 @@
+{
+  "id": "n19",
+  "name": "HUYỆN TƯƠNG CÔNG TRẦN THẾ SỰ",
+  "children": [
+    {
+      "id": "n20",
+      "name": "TRẦN ĐAI",
+      "children": [
+        {
+          "id": "n21",
+          "name": "Trần Đinh",
+          "children": [
+            {
+              "id": "n22",
+              "name": "QUAN VĂN TRẦN QUỐC CÔNG",
+              "children": []
+            },
+            {
+              "id": "n23",
+              "name": "Không rõ tên thật chỉ ghi tên hiệu Bồng Lai",
+              "children": [
+                {
+                  "id": "n24",
+                  "name": "CỤ HƯƠNG TỔNG TRẦN ĐỨC TỔNG",
+                  "children": [
+                    {
+                      "id": "n25",
+                      "name": "CỤ HƯƠNG BẢN TRẦN ĐỨC BẢN",
+                      "children": [
+                        {
+                          "id": "n26",
+                          "name": "CỤ HƯƠNG THÔN TRẦN ĐỨC CHÂM",
+                          "children": [
+                            {
+                              "id": "n27",
+                              "name": "CỤ HƯƠNG NỚ TRẦN ĐỨC CÚC",
+                              "children": [
+                                {
+                                  "id": "n28",
+                                  "name": "Cụ Hương Thu Trần Đức Cấn",
+                                  "children": [
+                                    {
+                                      "id": "n29",
+                                      "name": "Trần Đức Liễn",
+                                      "children": [
+                                        {
+                                          "id": "n30",
+                                          "name": "Trần Đức Ngoạn | Trần Đức Tùng | Trần Đức Lâm",
+                                          "children": [
+                                            {
+                                              "id": "n31",
+                                              "name": "Trần Hoàng Anh | Trần Hoàng Hải",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "n32",
+                                  "name": "Trần ? Khoa",
+                                  "children": [
+                                    {
+                                      "id": "n33",
+                                      "name": "Trần ? Hồi",
+                                      "children": [
+                                        {
+                                          "id": "n34",
+                                          "name": "Trần ? Thắng | Trần ? Trung",
+                                          "children": [
+                                            {
+                                              "id": "n35",
+                                              "name": "?",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "n36",
+                  "name": "CỤ HƯƠNG GỐC TRẦN ĐỨC GỐC",
+                  "children": [
+                    {
+                      "id": "n37",
+                      "name": "CỤ TÚ KẾP TRẦN ĐỨC TUYÊN",
+                      "children": [
+                        {
+                          "id": "n38",
+                          "name": "CỤ BA TRẦN ĐỨC NẠI",
+                          "children": [
+                            {
+                              "id": "n39",
+                              "name": "TRẦN ĐỨC NỘI",
+                              "children": [
+                                {
+                                  "id": "n40",
+                                  "name": "TRẦN ĐỨC LÃI",
+                                  "children": [
+                                    {
+                                      "id": "n41",
+                                      "name": "TRẦN ĐỨC THẮNG | TRẦN ĐỨC THỊNH",
+                                      "children": [
+                                        {
+                                          "id": "n42",
+                                          "name": "TRẦN ĐỨC VIỆT | TRẦN ĐỨC ANH",
+                                          "children": [
+                                            {
+                                              "id": "n43",
+                                              "name": "TRẦN ĐỨC VŨ",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "n44",
+                          "name": "CỤ BỐN TRẦN ĐỨC LỆNH",
+                          "children": [
+                            {
+                              "id": "n45",
+                              "name": "CỤ PHÚC QUẢNG TRẦN ĐỨC BIẾU",
+                              "children": [
+                                {
+                                  "id": "n46",
+                                  "name": "TRẦN ĐỨC HUY (chết trẻ 1942) | TRẦN QUANG DIỆU | TRẦN TIẾNG HÙNG",
+                                  "children": [
+                                    {
+                                      "id": "n47",
+                                      "name": "TRẦN ANH PHONG | TRẦN HOÀNG LINH",
+                                      "children": [
+                                        {
+                                          "id": "n48",
+                                          "name": "TRẦN GIA KHÁNH | TRẦN THẠCH GIA",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n49",
+                      "name": "CỤ TRẦN ĐỨC YÊM",
+                      "children": [
+                        {
+                          "id": "n50",
+                          "name": "CỤ TRẦN ĐỨC TRƯỜNG",
+                          "children": [
+                            {
+                              "id": "n51",
+                              "name": "CỤ TRẦN ĐỨC THẬN",
+                              "children": []
+                            },
+                            {
+                              "id": "n52",
+                              "name": "TRẦN ĐỨC PHỐ",
+                              "children": [
+                                {
+                                  "id": "n53",
+                                  "name": "TRẦN ĐỨC VIỆT | TRẦN ĐỨC VINH | TRẦN ĐỨC TƯỜNG",
+                                  "children": [
+                                    {
+                                      "id": "n54",
+                                      "name": "TRẦN ? NAM | TRẦN ĐỨC QUANG",
+                                      "children": [
+                                        {
+                                          "id": "n55",
+                                          "name": "? VĂN | ? DƯƠNG",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "n56",
+                          "name": "CỤ TỰ QUANG KHẢI | TRẦN ĐỨC KHAI (1877-1943)",
+                          "children": [
+                            {
+                              "id": "n57",
+                              "name": "CỤ TỰ PHÚC THÀNH | TRẦN ĐỨC VỊNH | (18-11 NHÂM TUẤT) 1913-1982",
+                              "children": [
+                                {
+                                  "id": "n58",
+                                  "name": "TRẦN THẾ HẠNH | TRẦN TRỌNG PHÚC | TRẦN ĐỨC CHƯƠNG | TRẦN CÔNG BẰNG | TRẦN ĐỨC BÍNH | TRẦN ĐỨC THANH",
+                                  "children": [
+                                    {
+                                      "id": "n59",
+                                      "name": "TRẦN ĐỨC LƯƠNG | TRẦN ĐỨC THIỆN | TRẦN MINH ĐỨC | TRẦN THẾ GIANG | TRẦN ĐỨC HƯNG | TRẦN ĐỨC HÙNG | TRẦN ĐỨC HIỀN | TRẦN ĐỨC SÁNG | TRẦN ĐỨC BÌNH | TRẦN ĐỨC THẢO",
+                                      "children": [
+                                        {
+                                          "id": "n60",
+                                          "name": "TRẦN ANH ĐỨC | TRẦN QUỐC BẢO | TRẦN QUỐC VINH | TRẦN VŨ ANH TUẤN | TRẦN ĐỨC MINH | TRẦN THẠCH SON | TRẦN ĐỨC ANH | TRẦN MINH HIẾU",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "n61",
+                              "name": "CỤ TỰ LÂM THÀNH | TRẦN ĐỨC VIỆN (26-5-1977)",
+                              "children": [
+                                {
+                                  "id": "n62",
+                                  "name": "TRẦN ĐỨC PHIÊN | TRẦN ĐỨC LONG | TRẦN ĐỨC HÙNG",
+                                  "children": [
+                                    {
+                                      "id": "n63",
+                                      "name": "Trần ? Tú | Trần ? Hưng",
+                                      "children": [
+                                        {
+                                          "id": "n64",
+                                          "name": "Trần ? Huy | Trần ? Hoàng",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "n65",
+              "name": "QUAN VÕ TRẦN PHÚC ĐIỀN",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

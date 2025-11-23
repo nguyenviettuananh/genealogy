@@ -1,0 +1,164 @@
+{
+  "id": "n1",
+  "name": "AN SINH VƯƠNG | TRẦN LIỄU",
+  "children": [
+    {
+      "id": "n2",
+      "name": "HƯNG ĐẠO VƯƠNG | TRẦN QUỐC TUẤN",
+      "children": [
+        {
+          "id": "n3",
+          "name": "HƯNG VŨ VƯƠNG | TRẦN QUỐC NGHIỄN",
+          "children": [
+            {
+              "id": "n4",
+              "name": "TRẦN CÔNG HUY (đời họ 1451)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "n5",
+          "name": "HƯNG HIẾN VƯƠNG TRẦN QUỐC UẤT",
+          "children": [
+            {
+              "id": "n6",
+              "name": "TRẦN VÔ VI",
+              "children": [
+                {
+                  "id": "n7",
+                  "name": "TRẦN ĐỨC NGHỊ",
+                  "children": [
+                    {
+                      "id": "n8",
+                      "name": "TRẦN CHÍNH ĐẠO",
+                      "children": [
+                        {
+                          "id": "n9",
+                          "name": "TRẦN CHÂN TƯ",
+                          "children": [
+                            {
+                              "id": "n10",
+                              "name": "TRẦN CƯƠNG CHÍNH",
+                              "children": [
+                                {
+                                  "id": "n11",
+                                  "name": "TRẦN CƯƠNG DŨNG",
+                                  "children": [
+                                    {
+                                      "id": "n12",
+                                      "name": "TRẦN QUANG TÁ",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "n13",
+                                  "name": "TRẦN TRẠCH LƯỢNG",
+                                  "children": [
+                                    {
+                                      "id": "n14",
+                                      "name": "TRẦN QUỐC THẾ",
+                                      "children": [
+                                        {
+                                          "id": "n15",
+                                          "name": "TRẦN TUÂN",
+                                          "children": [
+                                            {
+                                              "id": "n16",
+                                              "name": "TRẦN QUỐC NHỤÊ CÓ TLIỆU GHI LÁ CON THỨ CỤ TỔ HUYỆN",
+                                              "children": [
+                                                {
+                                                  "id": "n17",
+                                                  "name": "TRẦN QUỐC HỮU",
+                                                  "children": [
+                                                    {
+                                                      "id": "n18",
+                                                      "name": "PHÚC THUẬT PHÚ QUAN TRẦN QUỐC THẠCH",
+                                                      "children": [
+                                                        {
+                                                          "id": "n19",
+                                                          "name": "HUYỆN TƯƠNG CÔNG TRẦN THẾ SỰ",
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "n66",
+                          "name": "TRẦN CHÂN AN",
+                          "children": [
+                            {
+                              "id": "n67",
+                              "name": "TRẦN TUÂN ĐẠO",
+                              "children": []
+                            },
+                            {
+                              "id": "n68",
+                              "name": "TRẦN CHÂN KHÔNG",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "n69",
+                  "name": "TRẦN PHÚC HẢO",
+                  "children": [
+                    {
+                      "id": "n70",
+                      "name": "TRẦN PHÚC NHÂN",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n71",
+          "name": "HƯNG NHƯỢNG VƯƠNG | TRẦN QUỐC TẢNG",
+          "children": [
+            {
+              "id": "n72",
+              "name": "CÔNG CHÚA THUẬN THÀNH",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "n73",
+          "name": "HƯNG TRÍ VƯƠNG | TRẦN QUỐC HIỆN",
+          "children": []
+        },
+        {
+          "id": "n74",
+          "name": "HOÀNG HẬU KHÂM TỪ",
+          "children": []
+        },
+        {
+          "id": "n75",
+          "name": "Con gái đẻ (đổi họ) Gả cho PHẠM NGŨ LÃO",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gen4-root",
+  "name": "Cụ Trần Đức Tuyên",
+  "children": [
+    {
+      "id": "gen4-left-1",
+      "name": "Cụ Trần Đức Nại",
+      "children": [
+        {
+          "id": "gen4-left-2",
+          "name": "Cụ Trần Đức Nội",
+          "children": [
+            {
+              "id": "gen4-left-3",
+              "name": "Ông: Lãi",
+              "children": [
+                {
+                  "id": "gen4-left-4",
+                  "name": "Anh: Thắng, Thịnh",
+                  "children": [
+                    {
+                      "id": "gen4-left-5",
+                      "name": "Việt, (B) Vũ",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gen4-right-1",
+      "name": "Cụ Trần Đức Lệnh",
+      "children": [
+        {
+          "id": "gen4-right-2",
+          "name": "Cụ Trần Đức Biếu",
+          "children": [
+            {
+              "id": "gen4-right-3",
+              "name": "Ông: Diệu, Hùng",
+              "children": [
+                {
+                  "id": "gen4-right-4",
+                  "name": "Anh: Phong, Linh",
+                  "children": [
+                    {
+                      "id": "gen4-right-5",
+                      "name": "Khánh, Gia",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

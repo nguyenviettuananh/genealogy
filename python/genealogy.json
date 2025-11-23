@@ -1,161 +1,134 @@
 {
   "id": "n1",
-  "name": "AN SINH VƯƠNG | <span class=\"big strong\">TRẦN LIỄU</span>",
+  "name": "AN SINH VƯƠNG | TRẦN LIỄU",
   "children": [
     {
       "id": "n2",
-      "name": "HƯNG ĐẠO VƯƠNG | <span class=\"big strong\">TRẦN QUỐC TUẤN</span> | <span class=\"small muted\">1228-1300, được suy tôn là Đức Thánh Trần</span>",
+      "name": "HƯNG ĐẠO VƯƠNG | TRẦN QUỐC TUẤN",
       "children": [
         {
           "id": "n3",
-          "name": "HƯNG VŨ VƯƠNG | <span class=\"big strong\">TRẦN QUỐC NGHIỄN</span>",
+          "name": "HƯNG VŨ VƯƠNG | TRẦN QUỐC NGHIỄN",
           "children": [
             {
-              "id": "n4-tips",
-              "name": "Nhỏ 1 nửa (Content: ĐẶNG TRẦN CÔN - ĐẶNG XUÂN KHU (TỔNG BÍ THƯ TRƯỜNG CHINH) - ĐẶNG THAI MAI: THUỘC CHI HỌ NÀY)",
-              "children": []
-            },
-            {
               "id": "n4",
-              "name": "<span class=\"big strong\">TRẦN CÔNG HUY</span> | <span class=\"small muted\">đổi thành họ Đặng (1451)</span>",
+              "name": "TRẦN CÔNG HUY (đời họ 1451)",
               "children": []
             }
           ]
         },
         {
           "id": "n5",
-          "name": "HƯNG HIỂN VƯƠNG | <span class=\"big strong\">TRẦN QUỐC UẤT</span>",
+          "name": "HƯNG HIẾN VƯƠNG TRẦN QUỐC UẤT",
           "children": [
             {
               "id": "n6",
-              "name": "<span class=\"big strong\">TRẦN VÔ VI</span> | <span class=\"small muted\">chuyển về Cát Chữ (1381)</span>",
+              "name": "TRẦN VÔ VI",
               "children": [
                 {
                   "id": "n7",
-                  "name": "ĐẠI ĐỨC VƯƠNG ÔNG HOÀNG NGHỊ | <span class=\"big strong\">TRẦN ĐỨC NGHỊ</span>",
+                  "name": "TRẦN ĐỨC NGHỊ",
                   "children": [
                     {
                       "id": "n8",
-                      "name": "|<span class=\"big strong\">TRẦN CHÍNH ĐẠO</span>",
+                      "name": "TRẦN CHÍNH ĐẠO",
                       "children": [
                         {
                           "id": "n9",
-                          "name": "|<span class=\"big strong\">TRẦN CHÂN TƯ</span>",
+                          "name": "TRẦN CHÂN TƯ",
                           "children": [
                             {
                               "id": "n10",
-                              "name": "|<span class=\"big strong\">TRẦN CƯƠNG CHÍNH</span>",
+                              "name": "TRẦN CƯƠNG CHÍNH",
                               "children": [
                                 {
                                   "id": "n11",
-                                  "name": "|<span class=\"big strong\">TRẦN CƯƠNG DŨNG</span>",
+                                  "name": "TRẦN CƯƠNG DŨNG",
                                   "children": [
                                     {
                                       "id": "n12",
-                                      "name": "|<span class=\"big strong\">TRẦN QUANG TÁ</span>",
+                                      "name": "TRẦN QUANG TÁ",
                                       "children": []
                                     }
                                   ]
                                 },
                                 {
                                   "id": "n13",
-                                  "name": "|<span class=\"big strong\">TRẦN TRẠCH LƯỢNG</span>",
+                                  "name": "TRẦN TRẠCH LƯỢNG",
                                   "children": [
                                     {
                                       "id": "n14",
-                                      "name": "| <span class=\"big strong\">TRẦN QUỐC THẾ</span>",
+                                      "name": "TRẦN QUỐC THẾ",
                                       "children": [
                                         {
-                                          "id": "n15-tips",
-                                          "name": "Nhỏ 1 nửa (Content: Để tìm hiểu thêm: xem trang 4,5,6 trong cuốn Năm Tháng và Sự Kiện ông Trần Thế Hạnh viết 6/2003)",
-                                          "children": []
-                                        },
-                                        {
                                           "id": "n15",
-                                          "name": "<span class=\"big strong\">TRẦN TUÂN</span> | <span class=\"small muted\">khởi binh lật nhà Lê thế kỉ XVI (1511-1541) sau bị đầy ra Cửa Ông Quảng Ninh</span>",
+                                          "name": "TRẦN TUÂN",
                                           "children": [
                                             {
                                               "id": "n16",
-                                              "name": "<span class=\"big strong\">TRẦN QUỐC NHỤÊ</span> | (CÓ TLIỆU GHI LÁ CON THỨ CỤ TỔ HUYỆN)",
+                                              "name": "TRẦN QUỐC NHỤÊ CÓ TLIỆU GHI LÁ CON THỨ CỤ TỔ HUYỆN",
                                               "children": [
                                                 {
                                                   "id": "n17",
-                                                  "name": "| <span class=\"big strong\">TRẦN QUỐC HỮU</span>",
+                                                  "name": "TRẦN QUỐC HỮU",
                                                   "children": [
                                                     {
                                                       "id": "n18",
-                                                      "name": "PHÚC THUẬT PHỦ QUÂN | <span class=\"big strong\">TRẦN QUỐC THẠCH</span> | <span class=\"xsmall muted\">Về Thổ Lỗi (1600-1610) mất 29/12 âm lịch </span>",
+                                                      "name": "PHÚC THUẬT PHÚ QUAN TRẦN QUỐC THẠCH",
                                                       "children": [
                                                         {
-                                                          "id": "n19-1",
-                                                          "name": "HUYỆN THỪA CÔNG | <span class=\"small muted\">(do không có con trai nên bị PHẠT)</span> | <span class=\"hidden\">h</span>",
-                                                          "children": []
-                                                        },
-                                                        {
                                                           "id": "n19",
-                                                          "name": "HUYỆN TƯỚNG CÔNG | <span class=\"big strong\">TRẦN THẾ SỰ</span> | <span class=\"xsmall muted\">được bổ nhiệm về Lâm Thao (1645-1650) mất 15/7</span>",
+                                                          "name": "HUYỆN TƯƠNG CÔNG TRẦN THẾ SỰ",
                                                           "children": [
                                                             {
                                                               "id": "n20",
-                                                              "name": "<span class=\"big strong\">TRẦN ĐẠI</span> | <span class=\"big strong\">TRẦN ĐỨC ĐẠI</span> | <span class=\"xsmall muted\">bắt đầu từ đây có tên đệm là Đức</span>",
+                                                              "name": "TRẦN ĐAI",
                                                               "children": [
                                                                 {
                                                                   "id": "n21",
-                                                                  "name": "<span class=\"big strong\">TRẦN ĐINH</span> | <span class=\"nowrap\"><span class=\"xsmall muted\">hay</span> TRẦN ĐỨC</span>",
+                                                                  "name": "Trần Đinh",
                                                                   "children": [
                                                                     {
                                                                       "id": "n22",
-                                                                      "name": "| QUAN TƯỢNG THỦY | <span class=\"big strong\">TRẦN QUỐC CÔNG</span> | <span class=\"xsmall muted\">mất ngày 8/4</span>",
+                                                                      "name": "QUAN VĂN TRẦN QUỐC CÔNG",
                                                                       "children": []
                                                                     },
                                                                     {
                                                                       "id": "n23",
-                                                                      "name": "<span class=\"xsmall muted\">Cụ không rõ tên thật - chỉ ghi hiệu</span> | BỒNG LAI | <span class=\"hidden\">()</span>",
+                                                                      "name": "Không rõ tên thật chỉ ghi tên hiệu Bồng Lai",
                                                                       "children": [
                                                                         {
                                                                           "id": "n24",
-                                                                          "name": "CỤ HƯƠNG TỔNG | <span class=\"big strong\">TRẦN ĐỨC TỔNG</span>",
+                                                                          "name": "CỤ HƯƠNG TỔNG TRẦN ĐỨC TỔNG",
                                                                           "children": [
                                                                             {
                                                                               "id": "n25",
-                                                                              "name": "CỤ HƯƠNG BẢN | <span class=\"big strong\">TRẦN ĐỨC BẢN</span>",
+                                                                              "name": "CỤ HƯƠNG BẢN TRẦN ĐỨC BẢN",
                                                                               "children": [
                                                                                 {
                                                                                   "id": "n26",
-                                                                                  "name": "CỤ HƯƠNG THÔN | <span class=\"big strong\">TRẦN ĐỨC TRÂM</span>",
+                                                                                  "name": "CỤ HƯƠNG THÔN TRẦN ĐỨC CHÂM",
                                                                                   "children": [
                                                                                     {
                                                                                       "id": "n27",
-                                                                                      "name": "CỤ HƯƠNG NỞ | <span class=\"big strong\">TRẦN ĐỨC CÚC</span> | <span class=\"xsmall muted\">(TRẦN ĐỨC NGOAN)</span>",
+                                                                                      "name": "CỤ HƯƠNG NỚ TRẦN ĐỨC CÚC",
                                                                                       "children": [
                                                                                         {
                                                                                           "id": "n28",
-                                                                                          "name": "CỤ HƯƠNG THU | <span class=\"big strong\">TRẦN ĐỨC CẤN</span>",
+                                                                                          "name": "Cụ Hương Thu Trần Đức Cấn",
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n29",
-                                                                                              "name": "| <span class=\"big strong\">TRẦN ĐỨC LIỄN</span>",
+                                                                                              "name": "Trần Đức Liễn",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n30",
-                                                                                                  "name": "<span class=\"big strong\">TRẦN ĐỨC NGOẠN</span> <span class=\"xsmall muted\">mất 12/2017</span> | <span class=\"big strong\">TRẦN ĐỨC TÙNG</span> | <span class=\"big strong\">TRẦN ĐỨC LÂM</span>",
+                                                                                                  "name": "Trần Đức Ngoạn | Trần Đức Tùng | Trần Đức Lâm",
                                                                                                   "children": [
                                                                                                     {
                                                                                                       "id": "n31",
-                                                                                                      "name": "<span class=\"big strong\">TRẦN HOÀNG ANH</span> | <span class=\"big strong\">TRẦN HOÀNG HẢI</span>",
-                                                                                                      "children": [
-                                                                                                        {
-                                                                                                          "id": "n34",
-                                                                                                          "name": "2y189eywqidusah",
-                                                                                                          "children": [
-                                                                                                            {
-                                                                                                              "id": "n34-tips",
-                                                                                                              "name": "Muốn tìm hiểu kĩ hơn chi nhánh này, xem phần 2 sự thật và lẽ phải ông Trần Thế Hạnh viết tháng 6/2003 trong cuốn năm tháng và sự kiện",
-                                                                                                              "children": []
-                                                                                                            }
-                                                                                                          ]
-                                                                                                        }
-                                                                                                      ]
+                                                                                                      "name": "Trần Hoàng Anh | Trần Hoàng Hải",
+                                                                                                      "children": []
                                                                                                     }
                                                                                                   ]
                                                                                                 }
@@ -165,19 +138,19 @@
                                                                                         },
                                                                                         {
                                                                                           "id": "n32",
-                                                                                          "name": "TRẦN ĐỨC KHOA",
+                                                                                          "name": "Trần ? Khoa",
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n33",
-                                                                                              "name": "TRẦN ĐỨC HỒI",
+                                                                                              "name": "Trần ? Hồi",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n34",
-                                                                                                  "name": "TRẦN MẠNH THẮNG | TRẦN QUANG TRUNG",
+                                                                                                  "name": "Trần ? Thắng | Trần ? Trung",
                                                                                                   "children": [
                                                                                                     {
                                                                                                       "id": "n35",
-                                                                                                      "name": "TRẦN ĐỨC HÙNG | TRẦN ĐỨC HIẾU | TRẦN NGỌC TUẤN",
+                                                                                                      "name": "?",
                                                                                                       "children": []
                                                                                                     }
                                                                                                   ]
@@ -195,41 +168,36 @@
                                                                           ]
                                                                         },
                                                                         {
-                                                                          "id": "n23-tips",
-                                                                          "name": "Từ cụ Trần Thế Sự đến cụ Trần Đức Tổng - Trần Đức Gốc là cụ Trần Đức Vịnh ghi chép, viết lại",
-                                                                          "children": []
-                                                                        },
-                                                                        {
                                                                           "id": "n36",
-                                                                          "name": "CỤ HƯƠNG GỐC | <span class=\"big strong\">TRẦN ĐỨC GỐC</span> | <span class=\"xsmall muted\">mất ngày 25/5</span>",
+                                                                          "name": "CỤ HƯƠNG GỐC TRẦN ĐỨC GỐC",
                                                                           "children": [
                                                                             {
                                                                               "id": "n37",
-                                                                              "name": "CỤ TÚ KẾP | <span class=\"big strong\">TRẦN ĐỨC TUYÊN</span> | <span class=\"xsmall muted\">mất ngày 25/5</span>",
+                                                                              "name": "CỤ TÚ KẾP TRẦN ĐỨC TUYÊN",
                                                                               "children": [
                                                                                 {
                                                                                   "id": "n38",
-                                                                                  "name": "CỤ BA | <span class=\"big strong\">TRẦN ĐỨC NẠI</span>",
+                                                                                  "name": "CỤ BA TRẦN ĐỨC NẠI",
                                                                                   "children": [
                                                                                     {
                                                                                       "id": "n39",
-                                                                                      "name": "| <span class=\"big strong\">TRẦN ĐỨC NỘI</span>",
+                                                                                      "name": "TRẦN ĐỨC NỘI",
                                                                                       "children": [
                                                                                         {
                                                                                           "id": "n40",
-                                                                                          "name": "| <span class=\"big strong\">TRẦN ĐỨC LÃI</span> | <span class=\"xsmall muted\">mất ngày 16/5/1999</span>",
+                                                                                          "name": "TRẦN ĐỨC LÃI",
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n41",
-                                                                                              "name": "| <span class=\"big strong\">TRẦN ĐỨC THẮNG</span> | <span class=\"big strong\">TRẦN ĐỨC THỊNH</span>",
+                                                                                              "name": "TRẦN ĐỨC THẮNG | TRẦN ĐỨC THỊNH",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n42",
-                                                                                                  "name": "| <span class=\"big strong\">TRẦN ĐỨC VIỆT</span> | <span class=\"big strong\">TRẦN ĐỨC ANH</span>",
+                                                                                                  "name": "TRẦN ĐỨC VIỆT | TRẦN ĐỨC ANH",
                                                                                                   "children": [
                                                                                                     {
                                                                                                       "id": "n43",
-                                                                                                      "name": "| <span class=\"big strong\">TRẦN ĐỨC VŨ</span>",
+                                                                                                      "name": "TRẦN ĐỨC VŨ",
                                                                                                       "children": []
                                                                                                     }
                                                                                                   ]
@@ -244,23 +212,23 @@
                                                                                 },
                                                                                 {
                                                                                   "id": "n44",
-                                                                                  "name": "CỤ BỐN | <span class=\"big strong\">TRẦN ĐỨC LỆNH</span> | <span class=\"xsmall muted\">mất ngày 30/5/1917</span>",
+                                                                                  "name": "CỤ BỐN TRẦN ĐỨC LỆNH",
                                                                                   "children": [
                                                                                     {
                                                                                       "id": "n45",
-                                                                                      "name": "CỤ PHÚC QUẢNG | <span class=\"big strong\">TRẦN ĐỨC BIỂU</span> | <span class=\"xsmall muted\">mất ngày 3/3/1996</span>",
+                                                                                      "name": "CỤ PHÚC QUẢNG TRẦN ĐỨC BIẾU",
                                                                                       "children": [
                                                                                         {
                                                                                           "id": "n46",
-                                                                                          "name": "| <span class=\"big strong\">TRẦN ĐỨC HUY</span><span class=\"xsmall muted\">chết trẻ 1942</span> | <span class=\"big strong\">TRẦN QUANG DIỆU</span> <span class=\"xsmall muted\">mất ngày 11/6/2002</span> | <span class=\"big strong\">TRẦN TIẾN HÙNG</span><span class=\"xsmall muted\">mất ngày 18/7/2016</span>",
+                                                                                          "name": "TRẦN ĐỨC HUY (chết trẻ 1942) | TRẦN QUANG DIỆU | TRẦN TIẾNG HÙNG",
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n47",
-                                                                                              "name": "| <span class=\"big strong\">TRẦN ANH PHONG</span> | <span class=\"big strong\">TRẦN HOÀNG LINH</span>",
+                                                                                              "name": "TRẦN ANH PHONG | TRẦN HOÀNG LINH",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n48",
-                                                                                                  "name": "| <span class=\"big strong\">TRẦN GIA KHÁNH</span> | <span class=\"big strong\">TRẦN THẠCH GIA</span>",
+                                                                                                  "name": "TRẦN GIA KHÁNH | TRẦN THẠCH GIA",
                                                                                                   "children": []
                                                                                                 }
                                                                                               ]
@@ -275,32 +243,32 @@
                                                                             },
                                                                             {
                                                                               "id": "n49",
-                                                                              "name": "CỤ <span class=\"big strong\">TRẦN ĐỨC YÊM</span> | <span class=\"xsmall muted\">mất ngày 28/4</span>",
+                                                                              "name": "CỤ TRẦN ĐỨC YÊM",
                                                                               "children": [
                                                                                 {
                                                                                   "id": "n50",
-                                                                                  "name": "CỤ ĐỒ BẸP | <span class=\"big strong\">TRẦN ĐỨC TRƯỜNG</span> | <span class=\"xsmall muted\">mất ngày 12/7</span>",
+                                                                                  "name": "CỤ TRẦN ĐỨC TRƯỜNG",
                                                                                   "children": [
                                                                                     {
                                                                                       "id": "n51",
-                                                                                      "name": "| CỤ <span class=\"big strong\">TRẦN ĐỨC THẬN</span>",
+                                                                                      "name": "CỤ TRẦN ĐỨC THẬN",
                                                                                       "children": []
                                                                                     },
                                                                                     {
                                                                                       "id": "n52",
-                                                                                      "name": "CỤ <span class=\"big strong\">TRẦN ĐỨC PHỐ</span> | <span class=\"xsmall muted\">mất ngày 11/11</span>",
+                                                                                      "name": "TRẦN ĐỨC PHỐ",
                                                                                       "children": [
                                                                                         {
                                                                                           "id": "n53",
-                                                                                          "name": "<span class=\"big strong\">TRẦN ĐỨC VIỆT</span> <span class=\"xsmall muted\">mất ngày 22/8/2025</span> | <span class=\"big strong\">TRẦN ĐỨC VINH</span> | <span class=\"big strong\">TRẦN ĐỨC TƯỜNG</span>",
+                                                                                          "name": "TRẦN ĐỨC VIỆT | TRẦN ĐỨC VINH | TRẦN ĐỨC TƯỜNG",
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n54",
-                                                                                              "name": "<span class=\"big strong\">TRẦN ĐỨC NAM</span> | <span class=\"big strong\">TRẦN ĐỨC QUANG</span>",
+                                                                                              "name": "TRẦN ? NAM | TRẦN ĐỨC QUANG",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n55",
-                                                                                                  "name": "<span class=\"big strong\">TRẦN .. VĂN</span> | <span class=\"big strong\">TRẦN .. DƯƠNG</span>",
+                                                                                                  "name": "? VĂN | ? DƯƠNG",
                                                                                                   "children": []
                                                                                                 }
                                                                                               ]
@@ -313,23 +281,23 @@
                                                                                 },
                                                                                 {
                                                                                   "id": "n56",
-                                                                                  "name": "CỤ TỰ QUANG KHẢI | <span class=\"big strong\">TRẦN ĐỨC KHAI</span> | <span class=\"xsmall muted\">mất ngày 24/4/1943</span>",
+                                                                                  "name": "CỤ TỰ QUANG KHẢI | TRẦN ĐỨC KHAI (1877-1943)",
                                                                                   "children": [
                                                                                     {
                                                                                       "id": "n57",
-                                                                                      "name": "CỤ TỰ PHÚC THÀNH | <span class=\"big strong\">TRẦN ĐỨC VỊNH</span> | <span class=\"xsmall muted\">mất ngày 18/11/1982 (NHÂM TUẤT)</span>",
+                                                                                      "name": "CỤ TỰ PHÚC THÀNH | TRẦN ĐỨC VỊNH | (18-11 NHÂM TUẤT) 1913-1982",
                                                                                       "children": [
                                                                                         {
                                                                                           "id": "n58",
-                                                                                          "name": "<span class=\"big strong\">TRẦN THẾ HẠNH</span> | <span class=\"big strong\">TRẦN TRỌNG PHÚC</span> | <span class=\"big strong\">TRẦN ĐỨC CHƯƠNG</span> | <span class=\"big strong\">TRẦN CÔNG BẰNG</span> | <span class=\"big strong\"> TRẦN ĐỨC BÍNH </span> <span class=\"xsmall muted\">mất ngày 20/10/1998</span> | <span class=\"big strong\"> TRẦN ĐỨC THANH</span> <span class=\"xsmall muted\">mất ngày 2023</span>",
+                                                                                          "name": "TRẦN THẾ HẠNH | TRẦN TRỌNG PHÚC | TRẦN ĐỨC CHƯƠNG | TRẦN CÔNG BẰNG | TRẦN ĐỨC BÍNH | TRẦN ĐỨC THANH",
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n59",
-                                                                                              "name": "<span class=\"big strong\">TRẦN ĐỨC LƯƠNG</span>, <span class=\"big strong\">TRẦN ĐỨC THIỆN</span> | <span class=\"big strong\">TRẦN MINH ĐỨC</span>, <span class=\"big strong\">TRẦN THẾ GIANG</span> | <span class=\"big strong\">TRẦN ĐỨC HƯNG</span>, <span class=\"big strong\">TRẦN ĐỨC HÙNG</span> | <span class=\"big strong\">TRẦN ĐỨC HIỀN</span>, <span class=\"big strong\">TRẦN ĐỨC SÁNG</span> | <span class=\"big strong\">TRẦN ĐỨC BÌNH </span>, <span class=\"big strong\">TRẦN ĐỨC THẢO</span>",
+                                                                                              "name": "TRẦN ĐỨC LƯƠNG | TRẦN ĐỨC THIỆN | TRẦN MINH ĐỨC | TRẦN THẾ GIANG | TRẦN ĐỨC HƯNG | TRẦN ĐỨC HÙNG | TRẦN ĐỨC HIỀN | TRẦN ĐỨC SÁNG | TRẦN ĐỨC BÌNH | TRẦN ĐỨC THẢO",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n60",
-                                                                                                  "name": "<span class=\"big strong\">TRẦN ANH ĐỨC</span>, <span class=\"big strong\">TRẦN QUỐC BẢO</span> | <span class=\"big strong\">TRẦN QUỐC VINH</span> | <span class=\"big strong\">TRẦN VŨ ANH TUẤN</span> | <span class=\"big strong\">TRẦN ĐỨC MINH</span>, <span class=\"big strong\">TRẦN THẠCH SON</span> | <span class=\"big strong\">TRẦN ĐỨC ANH</span>, <span class=\"big strong\">TRẦN MINH HIẾU</span>",
+                                                                                                  "name": "TRẦN ANH ĐỨC | TRẦN QUỐC BẢO | TRẦN QUỐC VINH | TRẦN VŨ ANH TUẤN | TRẦN ĐỨC MINH | TRẦN THẠCH SON | TRẦN ĐỨC ANH | TRẦN MINH HIẾU",
                                                                                                   "children": []
                                                                                                 }
                                                                                               ]
@@ -340,19 +308,19 @@
                                                                                     },
                                                                                     {
                                                                                       "id": "n61",
-                                                                                      "name": "CỤ TỰ LÂM THÀNH | <span class=\"big strong\">TRẦN ĐỨC VIỆN</span> | <span class=\"xsmall muted\">mất ngày 26/5/1977</span>",
+                                                                                      "name": "CỤ TỰ LÂM THÀNH | TRẦN ĐỨC VIỆN (26-5-1977)",
                                                                                       "children": [
                                                                                         {
                                                                                           "id": "n62",
-                                                                                          "name": "<span class=\"big strong\">TRẦN ĐỨC PHIẾN</span> | <span class=\"big strong\">TRẦN ĐỨC LONG</span> | <span class=\"big strong\">TRẦN ĐỨC HÙNG</span>",
+                                                                                          "name": "TRẦN ĐỨC PHIÊN | TRẦN ĐỨC LONG | TRẦN ĐỨC HÙNG",
                                                                                           "children": [
                                                                                             {
                                                                                               "id": "n63",
-                                                                                              "name": "<span class=\"big strong\">TRẦN ĐỨC TÚ</span> | <span class=\"big strong\">TRẦN ... HƯNG</span>",
+                                                                                              "name": "Trần ? Tú | Trần ? Hưng",
                                                                                               "children": [
                                                                                                 {
                                                                                                   "id": "n64",
-                                                                                                  "name": "<span class=\"big strong\">TRẦN .. HUY</span> | <span class=\"big strong\">TRẦN .. HOÀNG</span>",
+                                                                                                  "name": "Trần ? Huy | Trần ? Hoàng",
                                                                                                   "children": []
                                                                                                 }
                                                                                               ]
@@ -371,7 +339,7 @@
                                                                     },
                                                                     {
                                                                       "id": "n65",
-                                                                      "name": "QUAN VĂN KHÂM SAI | <span class=\"big strong\">TRẦN PHÚC ĐIỀN</span> | <span class=\"xsmall muted\">mất ngày 24/8</span>",
+                                                                      "name": "QUAN VÕ TRẦN PHÚC ĐIỀN",
                                                                       "children": []
                                                                     }
                                                                   ]
@@ -379,11 +347,6 @@
                                                               ]
                                                             }
                                                           ]
-                                                        },
-                                                        {
-                                                          "id": "n19-2",
-                                                          "name": "NHÃ THỤY HÀN LÂM THỊ ĐỘC | <span class=\"big strong\">TRẦN QUỐC ĐỐNG - TRẦN HUY HÀ</span> | <span class=\"hidden\">()</span>",
-                                                          "children": []
                                                         }
                                                       ]
                                                     }
@@ -403,16 +366,16 @@
                         },
                         {
                           "id": "n66",
-                          "name": "|<span class=\"big strong\">TRẦN CHÂN AN</span>",
+                          "name": "TRẦN CHÂN AN",
                           "children": [
                             {
                               "id": "n67",
-                              "name": "|<span class=\"big strong\">TRẦN TUÂN ĐẠO</span>",
+                              "name": "TRẦN TUÂN ĐẠO",
                               "children": []
                             },
                             {
                               "id": "n68",
-                              "name": "|<span class=\"big strong\">TRẦN CHÂN KHÔNG</span>",
+                              "name": "TRẦN CHÂN KHÔNG",
                               "children": []
                             }
                           ]
@@ -423,11 +386,11 @@
                 },
                 {
                   "id": "n69",
-                  "name": "|<span class=\"big strong\">TRẦN PHÚC HẢO</span>",
+                  "name": "TRẦN PHÚC HẢO",
                   "children": [
                     {
                       "id": "n70",
-                      "name": "|<span class=\"big strong\">TRẦN PHÚC NHÂN</span>",
+                      "name": "TRẦN PHÚC NHÂN",
                       "children": []
                     }
                   ]
@@ -438,7 +401,7 @@
         },
         {
           "id": "n71",
-          "name": "HƯNG NHƯỢNG VƯƠNG | <span class=\"big strong\">TRẦN QUỐC TẢNG (CẢNG)</span>",
+          "name": "HƯNG NHƯỢNG VƯƠNG | TRẦN QUỐC TẢNG",
           "children": [
             {
               "id": "n72",
@@ -449,22 +412,17 @@
         },
         {
           "id": "n73",
-          "name": "HƯNG TRÍ VƯƠNG | <span class=\"big strong\">TRẦN QUỐC HIỆN</span>",
+          "name": "HƯNG TRÍ VƯƠNG | TRẦN QUỐC HIỆN",
           "children": []
         },
         {
           "id": "n74",
-          "name": "KHÂM TỪ HOÀNG HẬU BẢO THÁNH | <span class=\"big strong\">TRẦN THỊ TRINH</span>",
+          "name": "HOÀNG HẬU KHÂM TỪ",
           "children": []
         },
         {
           "id": "n75",
-          "name": "TUYÊN TỪ HOÀNG HẬU | <span class=\"big strong\">TRẦN THỊ TĨNH</span>",
-          "children": []
-        },
-        {
-          "id": "n76",
-          "name": "ANH NGUYÊN QUẬN CHÚA | <span class=\"xsmall muted\"> Đổi họ gả cho </span> PHẠM NGŨ LÃO",
+          "name": "Con gái đẻ (đổi họ) Gả cho PHẠM NGŨ LÃO",
           "children": []
         }
       ]
